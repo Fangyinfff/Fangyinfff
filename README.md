@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+- 🔭 I earned my Ph.D. degree in Computer Science from Zhejiang University in June 2024.
+- 🌱 I have joined the National Institutes of Health (NIH) as a postdoctoral fellow in Nov 2024.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fangyinfff&layout=compact)
+
+
+
+Have a nice day! 🥰
+
