@@ -1,4 +1,4 @@
-### Hi there, I'm Yin Fang <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Yin Fang 
 
 <!--
 **Fangyinfff/Fangyinfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
